@@ -1,0 +1,22 @@
+{
+  "name": "spa-assessment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@intellihr/ui-components": "^1.0.5-beta.63",
+    "foundation-sites": "^6.5.0-rc.2",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^1.1.4",
+    "styled-components": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
